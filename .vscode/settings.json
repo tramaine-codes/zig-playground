@@ -1,0 +1,5 @@
+{
+  "editor.inlayHints.enabled": "off",
+  "zig.path": "/opt/homebrew/bin/zig",
+  "zig.zls.path": "/opt/homebrew/bin/zls"
+}
